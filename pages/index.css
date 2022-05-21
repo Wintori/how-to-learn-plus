@@ -21,7 +21,7 @@
 @import url(../blocks/two-columns/__span-accent/two-columns__span-accent.css);
 @import url(../blocks/technics/technics.css);
 @import url(../blocks/section-title/section-title.css);
-@import url(../blocks/section-title/_theme-dark/section-title_theme-dark.css);
+@import url(../blocks/section-title/_theme/section-title_theme_dark.css);
 @import url(../blocks/section-subtitle/section-subtitle.css);
 @import url(../blocks/section-subtitle/_theme/section-subtitle_theme_dark.css);
 @import url(../blocks/cards/cards.css);
@@ -59,10 +59,6 @@
 @import url(../blocks/resources/resources.css);
 @import url(../blocks/resources/__logo-zone/resources__logo-zone.css);
 @import url(../blocks/resources/__logo/resources__logo.css);
-@import url(../blocks/resources/__logo/_arzamas/resources__logo_arzamas.css);
-@import url(../blocks/resources/__logo/_n1/resources__logo_n1.css);
-@import url(../blocks/resources/__logo/_polka/resources__logo_polka.css);
-@import url(../blocks/resources/__logo/_strelka/resources__logo_strelka.css);
 @import url(../blocks/footer/footer.css);
 
 @import url(../blocks/footer/__author/footer__author.css);
