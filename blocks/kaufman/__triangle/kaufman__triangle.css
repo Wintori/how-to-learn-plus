@@ -6,6 +6,5 @@
   background-size: contain;
   top: 0;
   right: -210px;
-  animation: rotation 20s linear infinite;
   z-index: -1;
 }
