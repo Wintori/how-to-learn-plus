@@ -1,10 +1,10 @@
-.table_theme_dark{
-    margin: 0 auto;
-    padding: 0;
-    display: grid;
-    justify-content: space-between;
-    align-content: space-between;
-    grid-template-columns: 1fr 1fr 1fr 1fr 1fr;
-    grid-gap: 8px;
-    z-index: 1;
-  }
+.table_theme_dark {
+  margin: 0 auto;
+  padding: 0;
+  display: grid;
+  justify-content: space-between;
+  align-content: space-between;
+  grid-template-columns: 1fr 1fr 1fr 1fr 1fr;
+  grid-gap: 8px;
+  z-index: 1;
+}

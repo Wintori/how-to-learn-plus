@@ -1,8 +1,8 @@
-.section-title{
-    width: 60%;
-    text-align: center;
-    line-height: 1.15;
-    font-size: 60px;
-    margin: 0 auto;
-    font-weight: 600;
-  }
+.section-title {
+  width: 60%;
+  text-align: center;
+  line-height: 1.15;
+  font-size: 60px;
+  margin: 0 auto;
+  font-weight: bold;
+}
