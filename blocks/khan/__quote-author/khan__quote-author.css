@@ -2,5 +2,6 @@
     line-height: 1.15;
     font-size: 24px;
     font-weight: bold;
-    margin-top: 36px;
+    margin: 36px 0 0 0;
+    padding: 0;
 }
