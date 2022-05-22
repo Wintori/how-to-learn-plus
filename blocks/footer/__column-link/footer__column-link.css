@@ -5,7 +5,7 @@
   color: white;
   white-space: nowrap;
   opacity: 1;
-  transition-timing-function: ease-in;
+  transition: opacity .2s linear;
 }
 
 .footer__column-link:hover {

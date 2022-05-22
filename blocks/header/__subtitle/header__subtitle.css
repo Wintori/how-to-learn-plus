@@ -6,4 +6,6 @@
   bottom: 30px;
   left: 64px;
   z-index: 1;
+  margin: 0;
+  padding: 0;
 }
