@@ -6,4 +6,5 @@
   right: 0;
   background-size: cover;
   background-image: url(../../../images/two_again.png);
+  z-index: -1;
 }
